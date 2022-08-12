@@ -1,0 +1,16 @@
+Pandas and Numpy - Project
+
+Project 1) Sales data
+Project 2) Zomato Data
+Project 3) EDA on Bank Churn Modeling data
+Project 4) EDA on Insurance Data
+
+Hadoop, HIVE Sqoop 
+
+project 5) import data from mysqldata base using sqoop to hdfs and peofrom analysis
+using HIVE
+
+Project 6) data exploration using pyspark dataframe and spark sql on insurance data
+Project 7) CCPP regression model using Pyspark MLlib
+Project 8) Diabetes data classification model using pyspark MLlib
+Project 9) ETL on insurance data using AWS Glue
